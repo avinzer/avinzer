@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinzer&label=Profile%20views&color=0e75b6&style=flat" alt="avinzer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinzer" alt="avinzer" /></a> </p>
-
 - 🔭 I’m currently working on **Ticketing-Micro-Service Project**
 
 - 🌱 I’m currently learning **Micro-services and Database**
